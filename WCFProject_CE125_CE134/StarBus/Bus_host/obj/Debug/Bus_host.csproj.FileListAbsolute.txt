@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Bus_host.exe.config
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Bus_host.exe
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Bus_host.pdb
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Online_Bus_Ticket_Booking.dll
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Online_Bus_Ticket_Booking.pdb
+C:\Users\LENOVO\source\repos\Bus_host\bin\Debug\Online_Bus_Ticket_Booking.dll.config
+C:\Users\LENOVO\source\repos\Bus_host\obj\Debug\Bus_host.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bus_host\obj\Debug\Bus_host.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bus_host\obj\Debug\Bus_host.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Bus_host\obj\Debug\Bus_host.exe
+C:\Users\LENOVO\source\repos\Bus_host\obj\Debug\Bus_host.pdb

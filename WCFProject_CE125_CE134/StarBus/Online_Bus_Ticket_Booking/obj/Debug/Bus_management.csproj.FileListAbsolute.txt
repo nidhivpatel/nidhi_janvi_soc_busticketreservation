@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.dll.config
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.dll
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\obj\Debug\Bus_management.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\obj\Debug\Bus_management.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\obj\Debug\Online_Bus_Ticket_Booking.dll
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\obj\Debug\Online_Bus_Ticket_Booking.pdb
+C:\Users\LENOVO\source\repos\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.pdb
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.dll.config
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.dll
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\bin\Debug\Online_Bus_Ticket_Booking.pdb
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\obj\Debug\Bus_management.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\obj\Debug\Bus_management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\obj\Debug\Online_Bus_Ticket_Booking.dll
+C:\Users\Admin\Downloads\WCFProject_CE110_CE148-master\WCFProject_CE110_CE148-master\StarBus\Online_Bus_Ticket_Booking\obj\Debug\Online_Bus_Ticket_Booking.pdb
